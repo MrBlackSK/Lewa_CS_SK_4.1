@@ -12,5 +12,9 @@ ApplicationsProvider.apk
 BackupRestoreConfirmation.apk
   strings.xml (CS100%, SK100%)
 
+CalendarImporter.apk
+  strings.xml (CS100%, SK100%)
+
 CDS_INFO.apk
   strings.xml (CS100%, SK100%)
+
