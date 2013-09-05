@@ -45,3 +45,6 @@ DeskClock.apk
   strings.xml (CS100%, SK100%)
   alarm_on.png (CS100%, SK100%)
   alarm_off.png (CS100%, SK100%)
+
+DownloadProvider.apk
+  strings.xml (CS100%, SK100%)
