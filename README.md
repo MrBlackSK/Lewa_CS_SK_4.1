@@ -51,3 +51,6 @@ DownloadProvider.apk
 
 DownloadProviderUI.apk
   strings.xml (CS100%, SK100%)
+
+DrmProvider.apk
+  strings.xml (CS100%, SK100%)
