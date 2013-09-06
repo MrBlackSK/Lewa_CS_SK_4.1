@@ -72,3 +72,6 @@ Flashlight.apk
 
 FMRadio.apk
   strings.xml (CS100%, SK100%)
+
+Galaxy4.apk
+  strings.xml (CS100%, SK100%)
