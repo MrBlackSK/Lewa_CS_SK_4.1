@@ -59,3 +59,7 @@ Email.apk
   strings.xml (CS100%, SK100%)
   arrays.xml (CS none, SK100%)
   plurals.xml (CS none, SK100%)
+
+EngineerModeSim.apk
+  strings.xml (CS100%, SK100%)
+  arrays.xml (CS none, SK100%)
