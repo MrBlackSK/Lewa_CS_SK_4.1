@@ -152,3 +152,6 @@ LewaPush.apk
 
 LewaSecurity2.apk
   strings.xml (CS100%, SK100%)
+
+LewaSoundRecorder.apk
+  strings.xml (CS100%, SK100%)
