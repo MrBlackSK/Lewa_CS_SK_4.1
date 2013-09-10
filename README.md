@@ -170,3 +170,6 @@ LewaWeather.apk
 
 LiveWallpapers.apk
   strings.xml (CS100%, SK100%)
+
+LocationEM.apk
+  strings.xml (CS100%, SK100%)
