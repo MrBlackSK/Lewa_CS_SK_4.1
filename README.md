@@ -188,3 +188,6 @@ MmsFavoriteProvider.apk
   
 MTKAndroidSuiteDaemon.apk
   strings.xml (CS100%, SK100%)
+
+MtkBt.apk
+  strings.xml (CS100%, SK100%)
