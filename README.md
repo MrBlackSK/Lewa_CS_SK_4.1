@@ -215,6 +215,9 @@ Phone.apk
   arrays.xml (CS none, SK100%)
   plurals.xml (CS none, SK100%)
 
+PhotoTable.apk
+  strings.xml (CS100%, SK100%)
+
 PIM.apk
   strings.xml (CS99.52%, SK100%)
   arrays.xml (CS none, SK100%)
