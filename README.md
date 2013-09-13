@@ -228,3 +228,5 @@ PIM.apk
   ic_index_normal.png (all)
   ic_index_normal_white.png (all)
 
+Power+.apk
+  strings.xml (CS100%, SK100%)
