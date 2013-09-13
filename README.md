@@ -218,6 +218,9 @@ Phone.apk
 PhotoTable.apk
   strings.xml (CS100%, SK100%)
 
+PicoTts.apk
+  strings.xml (CS100%, SK100%)
+
 PIM.apk
   strings.xml (CS99.52%, SK100%)
   arrays.xml (CS none, SK100%)
