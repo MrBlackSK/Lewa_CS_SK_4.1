@@ -257,3 +257,6 @@ Stk1.apk
 
 Stk2.apk
   strings.xml (CS100%, SK100%)
+
+StkSelection.apk
+  strings.xml (CS100%, SK100%)
