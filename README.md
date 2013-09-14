@@ -241,6 +241,8 @@ Search.apk
 
 Settings.apk
   strings.xml (CS100%, SK100%)
+  arrays.xml (CS100%, SK100%)
+  plurals.xml (CS100%, SK100%)
   timezones.xml (CS100%, SK100%)
   device_info_icon.png (all)
   
