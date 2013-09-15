@@ -285,3 +285,6 @@ Treasure.apk
 
 UserDictionaryProvider.apk
   strings.xml (CS100%, SK100%)
+
+VideoFavorites.apk
+  strings.xml (CS100%, SK100%)
