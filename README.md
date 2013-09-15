@@ -278,3 +278,7 @@ ThemeChooser.apk
 
 ThemeManager.apk
   strings.xml (CS100%, SK100%)
+
+Treasure.apk
+  strings.xml (CS100%, SK100%)
+  arrays.xml (CS none, SK100%)
