@@ -291,3 +291,6 @@ VideoFavorites.apk
 
 VideoPlayer.apk
   strings.xml (CS100%, SK100%)
+
+VirusDefense.apk
+  strings.xml (CS100%, SK100%)
