@@ -123,7 +123,7 @@ LewaFileManager.apk
 
 LewaGallery2.apk
   strings.xml (CS100%, SK100%)
-  plurals.xml (CS100%, SK100%)
+  plurals.xml (CS none, SK100%)
   
 LewaLauncherX.apk
   strings.xml (CS100%, SK100%)
