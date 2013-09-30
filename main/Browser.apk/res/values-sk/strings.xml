@@ -62,7 +62,6 @@
 <string name="bookmarks_history">Záložky/História</string>
 <string name="save_bookmark">Uložiť záložku</string>
 <string name="sms_received">Z %s správ</string>
-<string name="tabs">Záložka</string>
 <string name="saving_snapshot">Prebieha ukladanie...</string>
 <string name="pref_allow_apptabs">Povoliť viac kariet na aplikáciu</string>
 <string name="pref_link_prefetch_title">Predbežné načítanie webovej stránky</string>
@@ -148,7 +147,6 @@
 <string name="open_all_in_new_window">Otvoriť všetky na nových kartách</string>
 <string name="goto_dot">Hľadať</string>
 <string name="select_dot">Vybrať text</string>
-<string name="close_other_tabs">Zatvoriť ostatné záložky</string>
 <string name="bookmarks">Záložky</string>
 <string name="shortcut_bookmark">Pridať medzi záložky</string>
 <string name="shortcut_bookmark_title">Zvoľte záložku</string>
@@ -425,14 +423,4 @@
 <string name="accessibility_state_incognito">Stránka inkognito</string>
 <string name="accessibility_state_frozen">Uložená stránka</string>
 <string name="download_pending_with_file_size">Sťahovanie začalo. Veľkosť súboru:</string>
-<string name="accessibility_button_bookmarks_folder_up">Predchádzajúca zložka</string>
-<string name="notification_permissions_prompt_message">Povoliť %s zobrazovať oznámenia</string>
-<string name="notification_permissions_prompt_allow">Povoliť</string>
-<string name="notification_permissions_prompt_deny">Zakázať</string>
-<string name="notification_permissions_prompt_remember">Pamätať nastavenie</string>
-<string name="pref_content_webnotification_title">Webové oznámenie</string>
-<string name="pref_content_notifications">Enable notifications</string>
-<string name="pref_content_clear_notification">Vymazať oznámenie</string>
-<string name="pref_content_clear_notification_summary">Vymazať oznámenia s prístupmi pre všetky webové stránky</string>
-<string name="pref_content_clear_notification_dlg">Vymazať oznámenia s prístupmi webových stránok ?</string>
 </resources>
